@@ -120,7 +120,7 @@ python3 -c 'import pty;pty.spawn ("/bin/bash")'
 
 ## Post-Exploitation
 
-Atfer we get an initial foothold on the machine, the first thing I like to do is navigate to the home directory and obtain the user flag. In this case however, we aren't a high enough user on the machine to get the flag, and we are simply a lower level user with a few permission. So... what now?
+After we get an initial foothold on the machine, the first thing I like to do is navigate to the home directory and obtain the user flag. In this case however, we only have low-level permissions. So... what now?
 
 This part I got stuck at for a while, but the best thing you can do when completing these CTF challenges is staying persistent! After navigating to  /var/www/contact and stumbled across a file called tickets.db
 
