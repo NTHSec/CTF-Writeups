@@ -1,4 +1,4 @@
-**THM box**
+**This is another Easy level THM box named 'Brute It' (I wonder what kind of attacks we will be learning about 😉)! Let's dive in!**
 
 # Enumeration
 As always, we are going to start with a default nmap scan to get the lay of the land.
