@@ -1,7 +1,6 @@
 # CTF-Writeups
 
-## Update: As of Fall 2024, I have moved new writeups to Medium! To be frank, formatting is a nightmare in .md files, so the rich text editor Medium brings is quite the blessing :). Check them out here: 
-https://medium.com/@NTHSec.
+## Update: As of Fall 2024, I have moved new writeups to Medium! To be frank, formatting is a nightmare in .md files, so the rich text editor Medium brings is quite the blessing :). Check them out here: https://medium.com/@NTHSec.
 
 This repository showcases my CTF adventure as I progress through the HTB THM and Vulnhub machines.
 
